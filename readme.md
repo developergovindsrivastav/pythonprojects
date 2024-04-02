@@ -6,7 +6,8 @@ This folder contains some of my python projects.
 
 ## Python Project 1
 
-- This project is a simple Jarvis AI
+- This project is a simple Jarvis AI-
+-this is made in python 3.11 because of pyaudio module 
 - It can open youtube, pw, whatsapp, google in the browser
 - It can time, date, search on google, shutdown, sleep and quit
 
